@@ -1,53 +1,53 @@
-export const kartu= [
+export const kartu = [
   {
-      text: "Astri Hartati",
+    text: "Astri Hartati",
     image: "/astri.jpg",
-    info: "Bizdev Manager",
+    info: "Bizdev Manager | Lahir: 19 Juni",
   },
   {
-      text: "Arfa Nurzahra",
+    text: "Arfa Nurzahra",
     image: "/arfa.jpg",
-    info: "Adminustration Staff",
+    info: "Administration Staff",
   },
   {
-       text: "Doni Ardian",
+    text: "Doni Ardian",
     image: "/doni.jpg",
-    info: "Designer and Visual Creative",
+    info: "Designer and Visual Creative | Lahir: 12 Juni",
   },
   {
-       text: "Ibnu Nasrulloh",
+    text: "Ibnu Nasrulloh",
     image: "/ibnu.jpg",
     info: "Programmer/Development",
   },
   {
-      text: "Ihsan Fajar Ramadhan",
+    text: "Ihsan Fajar Ramadhan",
     image: "/ihsan.jpg",
-    info: "Programmer/Development",
+    info: "Programmer/Development | Lahir: 27 Mei",
   },
   {
     text: "Muhamad Irgi Nurhidayat",
     image: "/irgi.jpg",
-    info: "Development Bussines Staff",
+    info: "Development Business Staff",
   },
   {
     text: "Maryam Azzahro Nurjanah",
     image: "/meri.jpg",
-    info: "Programmer and Technical Service",
+    info: "Programmer and Technical Service | Lahir: 12 November",
   },
   {
     text: "Muhamad Ramzi",
     image: "/ramzi.jpg",
-    info: "Programmer/Development",
+    info: "Programmer/Development | Lahir: 26 November",
   },
   {
     text: "Ridwan Wahyudin Rifa'i",
     image: "/ridwan.jpg",
-    info: "Employee",
+    info: "Employee | Lahir: 21 Mei",
   },
   {
     text: "Rifky Abdul Hanan",
     image: "/rifky.jpg",
-    info: "Manager of Development",
+    info: "Manager of Development | Lahir: 30 Mei",
   },
   {
     text: "Muhamad Risyad Wibawa",
@@ -57,6 +57,6 @@ export const kartu= [
   {
     text: "Sesilia Natasya",
     image: "/sesil.jpg",
-    info: "BizDev Staff",
+    info: "BizDev Staff | Lahir: 25 Desember",
   },
 ];
